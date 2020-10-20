@@ -98,7 +98,7 @@ killall -USR1 termite
 
 # geany ---------------------------------
 sed -i -e 's/color_scheme=.*/color_scheme=github.conf/g' "$geany_path"/geany.conf
-sed -i -e 's/editor_font=.*/editor_font=Terminus 9/g' "$geany_path"/geany.conf
+sed -i -e 's/editor_font=.*/editor_font=Sans 10/g' "$geany_path"/geany.conf
 
 # gtk theme, icons and fonts ---------------------------------
 xfconf-query -c xsettings -p /Net/ThemeName -s "Arc-Lighter"
