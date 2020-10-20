@@ -163,7 +163,7 @@ obconfig && openbox --reconfigure
 
 # dunst ---------------------------------
 sed -i -e 's/geometry = .*/geometry = "300x60-20-50"/g' $dunst_path/dunstrc
-sed -i -e 's/font = .*/font = Terminus 9/g' $dunst_path/dunstrc
+sed -i -e 's/font = .*/font = Sans 10/g' $dunst_path/dunstrc
 sed -i -e 's/frame_width = .*/frame_width = 0/g' $dunst_path/dunstrc
 
 cat > $dunst_path/sid << _EOF_
