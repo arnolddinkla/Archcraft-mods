@@ -1,7 +1,7 @@
- 	!! Menu
-menu.border.width: 15
+!! Menu
+menu.border.width: 8
 menu.border.color: #e7e8eb
-menu.overlap.x: -30
+menu.overlap.x: -15
 menu.title.bg: flat
 menu.title.bg.color: #e7e8eb
 menu.title.text.color: #e5e9f0
@@ -30,11 +30,11 @@ window.label.text.justify: center
 window.*.button.*.bg: parentrelative
 window.*.button.*.pressed.bg: flat
 window.active.button.*.image.color: #70788d
-window.active.button.*.hover.image.color: #558888
+window.active.button.*.hover.image.color: #2587cc
 window.active.button.*.pressed.bg.color: #e7e8eb
 window.active.button.disabled.image.color: #d3d3d6
 window.inactive.button.*.image.color: #d3d3d6
-window.inactive.button.*.hover.image.color: #558888
+window.inactive.button.*.hover.image.color: #2587cc
 window.inactive.button.*.pressed.bg.color: #e7e8eb
 window.inactive.button.disabled.image.color: #d3d3d6
 
@@ -67,6 +67,6 @@ osd.bg.color: #e7e8eb
 osd.label.bg: flat
 osd.label.bg.color: #e7e8eb
 osd.hilight.bg: flat
-osd.hilight.bg.color: #558888
+osd.hilight.bg.color: #2587cc
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #70788d
