@@ -2,11 +2,11 @@
 Archcraft styling  mods
  - basically a rehash of the Archcraft's beach style but lightened up a bit. 
  
- - Openbox
- - Rofi
- - Polybar
- - Mpd
- - Ncmpcpp
+   - Openbox
+   - Rofi
+   - Polybar
+   - Mpd
+   - Ncmpcpp
  
  - maybe throw in a custom startpage styled along the same lines - Startpage made into a separate private repository due to PI ( I styled it along these lines https://github.com/grtcdr/startpages so credit due to that guy)
  
