@@ -5,7 +5,8 @@ Archcraft styling  mods
  Openbox
  Rofi
  Polybar
+ Mpd
  Ncmpcpp
- - maybe throw in a custom startpage styled along the same lines
+ - maybe throw in a custom startpage styled along the same lines - Startpage made into a separate private repository due to PI ( I styled it along these lines https://github.com/grtcdr/startpages so credit due to that guy)
  
  All credit to the Archcraft guy - great work  https://github.com/adi1090x  https://github.com/archcraft-os
