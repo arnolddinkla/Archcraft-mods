@@ -10,7 +10,7 @@ menu.items.bg: flat
 menu.items.bg.color: #e7e8eb
 menu.items.text.color: #93a1a1
 menu.items.active.bg: flat
-menu.items.active.bg.color: #558888
+menu.items.active.bg.color: #93a1a1
 menu.items.active.text.color: #e5e9f0
 menu.items.disabled.text.color: #4d5066
 menu.items.justify: left
@@ -30,11 +30,11 @@ window.label.text.justify: center
 window.*.button.*.bg: parentrelative
 window.*.button.*.pressed.bg: flat
 window.active.button.*.image.color: #70788d
-window.active.button.*.hover.image.color: #558888
+window.active.button.*.hover.image.color: #93a1a1
 window.active.button.*.pressed.bg.color: #e7e8eb
 window.active.button.disabled.image.color: #d3d3d6
 window.inactive.button.*.image.color: #d3d3d6
-window.inactive.button.*.hover.image.color: #558888
+window.inactive.button.*.hover.image.color: #93a1a1
 window.inactive.button.*.pressed.bg.color: #e7e8eb
 window.inactive.button.disabled.image.color: #d3d3d6
 
@@ -67,6 +67,6 @@ osd.bg.color: #e7e8eb
 osd.label.bg: flat
 osd.label.bg.color: #e7e8eb
 osd.hilight.bg: flat
-osd.hilight.bg.color: #558888
+osd.hilight.bg.color: #93a1a1
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #70788d
