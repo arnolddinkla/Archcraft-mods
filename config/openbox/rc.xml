@@ -469,7 +469,7 @@
     </keybind>
     <keybind key="C-A-l">
       <action name="Execute">
-        <command>betterlockscreen --lock</command>
+        <command>betterlockscreen --lock blur</command>
       </action>
     </keybind>
     <!-- Openbox -->
